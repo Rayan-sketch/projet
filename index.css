@@ -1,0 +1,87 @@
+
+.nav{background-color: rgba(141,110,99,255);
+display: flex;  
+justify-content: space-between;
+padding: 15px;
+
+
+align-items: center;
+height: 200px;}
+.nav >div>a{
+    text-decoration: none;
+    font-size: larger;
+    padding: 7px;
+    color: rgb(255, 255, 255);
+}
+
+
+.nav>img{ 
+    width: 160px;
+    height: 160px;
+    align-content: start;
+   
+    
+    
+}
+
+
+h1{text-align: center;}
+.main{
+    background-image: url('background-office-bg-changed\ \(1\).jpg');
+    color: rgb(255, 255, 255);
+    padding: 25px;
+}
+
+
+.container>div>img{
+    width: 200px;
+    height: 200px;
+    top: 10px;
+    padding: 15px;
+   
+border-radius: 20px;
+    
+
+}
+
+
+
+
+
+footer{
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgba(141,110,99,255);
+    padding: 10px;
+    margin: -15px;
+}
+.container{
+    
+        display: flex; 
+        font-size: large;
+        justify-content: space-around;
+
+
+      
+}
+.container>div{
+
+    width: 35%;
+   
+
+   border: solid 
+   rgb(255, 255, 255);
+   border-width: 10px;
+    text-align: center;
+    color: rgba(77,60,49,255);
+    background-color: rgba(215,204,200,255);
+    border-radius: 20px;
+
+}
+dir{background: rgba(244,241,234,255);}
+
+h1{color: rgba(255,255,255,255)}
+
+h2{text-align: center; color: rgb(128,111,107)}
+
+h3{text-align: center; color: rgba(80,67,64,255)}
